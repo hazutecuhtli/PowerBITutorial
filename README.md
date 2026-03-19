@@ -26,7 +26,7 @@ The following figure presents the solution architecture for the implemented dash
 Power BI queries are then used to extract and prepare this data, making it available to generate insights and display key metrics through visualizations such as charts, helping communicate the impact of their work.
 
 <p align="center">
-  <img src="Images/PowerBiWorkflow.png" width="800">
+  <img src="PowerBiWorkflow.png" width="800">
   <em>Figure 1. Power BI dashboard workflow architecture.</em>  
 </p>
 
