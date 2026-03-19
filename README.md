@@ -30,3 +30,39 @@ Power BI queries are then used to extract and prepare this data, making it avail
   <em>Figure 1. Power BI dashboard workflow architecture.</em>  
 </p>
 
+# Procedure Summary
+
+This example is based on simulated data generated using GPT to represent probable operations in drilling, wireline, HSE, HR, and supply chain, as well as their day-to-day dependencies within the oil and gas industry. The goal is to provide a realistic context for building a Power BI dashboard that can generate real value, or at least serve as a solid example of how to create value by following the presented steps.
+
+Once the data is available in SharePoint, the first step is to retrieve it in Power BI using queries. This begins by importing the data. While different options are available depending on the data source, this example uses SharePoint.
+
+After the data is imported, it becomes available in the Model view of Power BI, where relationships between tables can be created. These relationships facilitate data processing and enable more effective data visualization.
+
+For example, they allow filters to adjust what the dashboard displays, enabling users to focus on specific events such as wells or dates.
+
+Furthermore, by processing the data using the DAX language—similar to Excel formulas—additional metrics can be computed and displayed, such as maximum depth, the average number of observations per operation, and other related metrics.
+
+All the procedures explained up to this point form the foundation for building charts, visuals, and cards in Power BI, enabling clear summaries that highlight the impact of our work. More details can be found in the following section, where a video tutorial, the dataset used, and the Power BI dashboard itself are available.
+
+# Learning Resources
+
+- **Used Simulated Data:**
+
+  The data is available in the following link: [Simulated Data](https://halliburton.sharepoint.com/:f:/s/HALI_AIMX/IgBGIVrsqcMRRJFOZLmQjQ8mAXTym3WU6NQ3UGp2JkzJ3xo?e=pugITd)
+
+- **Video tutorial: How to create a Power BI dashboard**
+
+  Access the tutorial here: [Watch here](https://halliburton.sharepoint.com/:v:/s/HALI_AIMX/IQADRlLvvMkmT71BC-8Nhy9hAZ6B7plVwyjS69W0h9kqRkQ?e=9e6axv)
+
+- **Access the created dashboard:**
+
+  View the dashboard: [Access dashboard](https://app.powerbi.com/groups/me/reports/3adcc929-6ebf-4bb5-b10a-79e583ff12f8?ctid=b7be7686-6f97-4db7-9081-a23cf09a96b5&pbi_source=linkShare)
+
+  
+# Conclusion
+
+Power BI may not be the most user-friendly or complete tool. However, it allows us to generate visualizations in a relatively simple way to present information derived from our work. While it is not perfect, it is a powerful tool within our working ecosystem.
+
+It enables us to share important information and clearly demonstrate the value of what we do. This is crucial, because no matter how skilled we are as professionals, if we cannot communicate our work, it becomes difficult for managers and teams to recognize our contributions.
+
+Best of luck using Power BI!
